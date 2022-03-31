@@ -4,8 +4,8 @@ pkgdown_sha: ~
 articles:
   HOWTO_BUILD_WORKSHOP: HOWTO_BUILD_WORKSHOP.html
   workshop_example: workshop_example.html
-last_built: 2022-03-31T22:39Z
+last_built: 2022-03-31T22:51Z
 urls:
-  reference: https://seandavi.github.io/BuildABiocWorkshop/reference
-  article: https://seandavi.github.io/BuildABiocWorkshop/articles
+  reference: https://bioinformatics-research-network.github.io/workshop-template/reference
+  article: https://bioinformatics-research-network.github.io/workshop-template/articles
 
